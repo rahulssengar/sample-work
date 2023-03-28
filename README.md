@@ -1,11 +1,12 @@
-# Getting Started with Create React App
+# Sample Work
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template.
 
-## Available Scripts
+##Objective
 
-In the project directory, you can run:
+In the project, we are expermenting with redux and swr for the smooth deployment on runing typescript application.
 
+## Commands For Project
 ### `npm start`
 
 Runs the app in the development mode.\
